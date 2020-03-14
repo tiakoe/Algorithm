@@ -2,7 +2,7 @@ package other;
 import java.util.Scanner;
 
 /*
- * ͨ����ע��long���Լ�==����ǰ�ж�
+ * 通过；注意long；以及==在最前判断
  */
 public class Main_HongBao {
 

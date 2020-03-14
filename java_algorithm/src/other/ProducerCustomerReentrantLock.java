@@ -1,4 +1,5 @@
 package other;
+
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -15,7 +16,7 @@ class ThreadDomain41 extends ReentrantLock {
 			while (!"".equals(ValueObjectNew.value))
 				condition.await();
 			ValueObjectNew.value = "123";
-			System.out.println(Thread.currentThread().getName() + "������value, value�ĵ�ǰֵ��" + ValueObjectNew.value);
+			System.out.println(Thread.currentThread().getName() + "生产了value, value的当前值是" + ValueObjectNew.value);
 			condition.signal();
 		} catch (InterruptedException e) {
 			e.printStackTrace();
@@ -30,7 +31,7 @@ class ThreadDomain41 extends ReentrantLock {
 			while ("".equals(ValueObjectNew.value))
 				condition.await();
 			ValueObjectNew.value = "";
-			System.out.println(Thread.currentThread().getName() + "������value, value�ĵ�ǰֵ��" + ValueObjectNew.value);
+			System.out.println(Thread.currentThread().getName() + "消费了value, value的当前值是" + ValueObjectNew.value);
 			condition.signal();
 		} catch (InterruptedException e) {
 			e.printStackTrace();
@@ -43,7 +44,7 @@ class ThreadDomain41 extends ReentrantLock {
 public class ProducerCustomerReentrantLock {
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 		final ThreadDomain41 td = new ThreadDomain41();
 		Runnable producerRunnable = new Runnable() {
 			public void run() {

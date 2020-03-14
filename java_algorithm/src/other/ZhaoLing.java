@@ -1,8 +1,9 @@
 package other;
+
 import java.util.Arrays;
 
 /**
- * Ӳ������ 1 3 5������������������k�����������������
+ * 硬币找零 1 3 5，无穷数量，给定数k，求找零的最少张数
  * 
  * @author ASUS
  *
@@ -16,7 +17,7 @@ public class ZhaoLing {
 		Arrays.fill(cost, Integer.MAX_VALUE);
 		cost[0] = 0;
 		/**
-		 * i����ǰ����Ǯ��coin[j]����ǰ��ֵ
+		 * i：当前的总钱，coin[j]：当前面值
 		 */
 		for (int i = 1; i <= money; i++) {
 			for (int j = 0; j < coin.length; j++) {
@@ -36,7 +37,7 @@ public class ZhaoLing {
 	}
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 		System.out.println(deal(13));
 	}
 

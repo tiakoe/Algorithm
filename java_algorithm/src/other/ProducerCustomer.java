@@ -1,4 +1,5 @@
 package other;
+
 class ValueObject {
 	public static String value = "";
 }
@@ -17,7 +18,7 @@ class Producer {
 					lock.wait();
 				}
 				String value = System.currentTimeMillis() + "_" + System.nanoTime();
-				System.out.println("Set��ֵ�ǣ�" + value);
+				System.out.println("Set的值是：" + value);
 				ValueObject.value = value;
 				lock.notify();
 			}
@@ -40,7 +41,7 @@ class Customer {
 				if (ValueObject.value.equals("")) {
 					lock.wait();
 				}
-				System.out.println("Get��ֵ�ǣ�" + ValueObject.value);
+				System.out.println("Get的值是：" + ValueObject.value);
 				ValueObject.value = "";
 				lock.notify();
 			}
@@ -53,7 +54,7 @@ class Customer {
 public class ProducerCustomer {
 
 	public static void main(String[] args) {
-		
+		// TODO Auto-generated method stub
 		Object lock = new Object();
 		final Producer producer = new Producer(lock);
 		final Customer customer = new Customer(lock);
