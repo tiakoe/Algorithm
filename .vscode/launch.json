@@ -5,10 +5,17 @@
     "version": "0.2.0",
     "configurations": [
       {
-          "type": "java",
-          "name": "Debug (Launch)",
-          "request": "launch",
-          "mainClass": "Main01"
+        "type": "java",
+        "name": "CodeLens (Launch) - App",
+        "request": "launch",
+        "mainClass": "app.App",
+        "projectName": "java_algorithm"
+      },
+      {
+        "type": "java",
+        "name": "Debug (Launch)",
+        "request": "launch",
+        "mainClass": "Main01"
       }
     ]
 }
