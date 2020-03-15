@@ -29,6 +29,7 @@ public class Main_HongBao {
 			}
 		}
 		System.out.println(max);
+		in.close();
 	}
 
 }

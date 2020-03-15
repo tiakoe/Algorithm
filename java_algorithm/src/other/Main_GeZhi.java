@@ -40,5 +40,6 @@ public class Main_GeZhi {
 		visited = new boolean[r][c];
 		solve(0, 0);
 		System.out.println(String.valueOf(count));
+		in.close();
 	}
 }

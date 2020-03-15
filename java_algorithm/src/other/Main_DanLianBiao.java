@@ -1,4 +1,5 @@
 package other;
+
 class SingleList<E> {
 	private static class Node<E> {
 		E item;
@@ -14,24 +15,24 @@ class SingleList<E> {
 	private Node<E> lastNode;
 	public int size;
 
-	// ��β�����һ��Ԫ��
+	// 向尾部添加一个元素
 	public void add(E e) {
 		lastNodeList(e);
 	}
 
-	// ��ĳ��λ�ò���һ��Ԫ��
+	// 在某个位置插入一个元素
 	public void add(E e, int index) {
 		if (index < 0 || index > size)
 			return;
-		if (index == size) {// ����β��
+		if (index == size) {// 插入尾部
 			lastNodeList(e);
 		} else {
 			if (index == 0) {
 				Node<E> l = fristNode;
-				Node<E> newNode = new Node<>(e, l);// �µ�Ԫ���ڲ���λ�õ�ǰһ��λ��
+				Node<E> newNode = new Node<>(e, l);// 新的元素在插入位置的前一个位置
 				fristNode = newNode;
 			} else {
-				Node<E> fNode = node(index - 1);// �ҵ�Ҫ����λ�õ�ǰһ��λ��
+				Node<E> fNode = node(index - 1);// 找到要插入位置的前一个位置
 				Node<E> lNode = fNode.next;
 				Node<E> newNode = new Node<>(e, lNode);
 				fNode.next = newNode;
@@ -40,7 +41,7 @@ class SingleList<E> {
 		}
 	}
 
-	// ɾ��ĳ���ڵ�
+	// 删除某个节点
 	public void remove(int index) {
 		unLink(index);
 	}
@@ -48,17 +49,17 @@ class SingleList<E> {
 	private void unLink(int index) {
 		if (index < 0 || index > size)
 			return;
-		if (index == size) {// ɾβ��
+		if (index == size) {// 删尾部
 			Node<E> node = node(index - 1);
 			node.next = null;
 			lastNode = node;
-		} else if (index == 0) {// ɾͷ��
+		} else if (index == 0) {// 删头部
 			Node<E> l = this.fristNode;
 			fristNode = l.next;
 		} else {
-			Node<E> node = node(index - 1);// Ҫɾ����ǰһ���ڵ�
-			Node<E> removeNode = node.next;// Ҫɾ���Ľڵ�
-			Node<E> lNode = removeNode.next;// Ҫɾ���ĺ�һ���ڵ�
+			Node<E> node = node(index - 1);// 要删除的前一个节点
+			Node<E> removeNode = node.next;// 要删除的节点
+			Node<E> lNode = removeNode.next;// 要删除的后一个节点
 			node.next = lNode;
 		}
 		size--;
@@ -79,7 +80,7 @@ class SingleList<E> {
 	}
 
 	private void lastNodeList(E e) {
-		Node<E> newNode = new Node<>(e, null);// һ���µĽڵ�
+		Node<E> newNode = new Node<>(e, null);// 一个新的节点
 		Node<E> l = lastNode;
 		if (l == null) {
 			fristNode = newNode;
@@ -87,10 +88,10 @@ class SingleList<E> {
 			l.next = newNode;
 		}
 		size++;
-		lastNode = newNode;// �����һ���ڵ㸳ֵ
+		lastNode = newNode;// 将最后一个节点赋值
 	}
 
-	// ��ȡ�ڵ��ĳ��Ԫ��
+	// 获取节点的某个元素
 	public E get(int index) {
 		if (index < 0 || index > size) {
 			return null;

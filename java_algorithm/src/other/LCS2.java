@@ -10,9 +10,10 @@ import java.util.Scanner;
  */
 public class LCS2 {
 
-	static int deal(char[] a, char[] b) {
-		int m = a.length, n = b.length, res = 0;
-		int[][] dp = new int[m + 1][n + 1];
+	static int deal(final char[] a, final char[] b) {
+		final int m = a.length, n = b.length;
+		int res = 0;
+		final int[][] dp = new int[m + 1][n + 1];
 		for (int i = 0; i <= m; i++) {
 			dp[i][0] = 0;
 		}
@@ -32,15 +33,16 @@ public class LCS2 {
 		return dp[m][n];
 	}
 
-	public static void main(String[] args) {
-		
-		Scanner in = new Scanner(System.in);
+	public static void main(final String[] args) {
+
+		final Scanner in = new Scanner(System.in);
 		while (in.hasNext()) {
-			String aString = in.nextLine();
-			String bString = in.nextLine();
-			int res = deal(aString.toCharArray(), bString.toCharArray());
+			final String aString = in.nextLine();
+			final String bString = in.nextLine();
+			final int res = deal(aString.toCharArray(), bString.toCharArray());
 			System.out.println(res);
 		}
+		in.close();
 	}
 
 }
