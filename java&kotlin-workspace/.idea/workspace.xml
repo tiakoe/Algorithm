@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="357735f4-4379-4f31-8b34-54097dfefeca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/Main8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/collections/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/AbstractFactoryClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/AdaptePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Aircondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/AirconditionA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/AirconditionB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Ausstattung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Beef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/BuilderPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Cabbage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/CompositePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Disk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Egg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/EngineA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/EngineB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/FacadePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/FactoryBMW320.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/FactoryBMW523.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/FactoryMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Gun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Halberd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Hamburg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Knife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/ManBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/MeatScheme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/NormalFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/ObserverMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/PersonDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/SampleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/SingletonHunger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/SingletonLazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/SingletonMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/StrategyMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Sword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/VegeScheme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Villager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/War.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/WarGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Weapon2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Weapon2Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/design_pattern/Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/leetcode/DisappearNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/leetcode/GuPiao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/leetcode/MaxHuiWen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/leetcode/NotRepeatStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ErFenFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/FastPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/LCS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/LCS2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Lock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Lock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Lock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Main_DanLianBiao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Main_GeZhi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Main_HongBao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Main_SouSuoShu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Main_ZhiXingDaYin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Once.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/PathNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ProducerCustomer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ProducerCustomer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ProducerCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ProducerCustomerReentrantLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ProducerCustomerReentrantLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ProducerCustomerReentrantLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleInstance$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleStatic$InnerSingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/SingleStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Solution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ThreadDomain41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/TreeHeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ValueObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ValueObjectNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ZhaoLing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ZhaoLing2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/other/ZhongShu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1007$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/bin/poj/Main_1010.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/collections/Main8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/AbstractFactoryClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/AdaptePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/BuilderPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/CompositePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/FacadePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/FactoryMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/NormalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/ObserverMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/SingletonHunger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/SingletonLazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/SingletonMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/design_pattern/StrategyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/leetcode/DisappearNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/leetcode/GuPiao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/leetcode/MaxHuiWen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/leetcode/NotRepeatStr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/ErFenFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/FastPower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/LCS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/LCS2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Lock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Main_DanLianBiao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Main_GeZhi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Main_HongBao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Main_SouSuoShu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Main_ZhiXingDaYin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Once.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/PathNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/ProducerCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/ProducerCustomerReentrantLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/SingleInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/TreeHeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/XinFeng.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/ZhaoLing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/ZhaoLing2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/other/ZhongShu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_algorithm/src/poj/Main_1010.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dDnCrSLugXagaXrKa8wsLMrgRV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/software2/androidsdk_install" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java_code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="357735f4-4379-4f31-8b34-54097dfefeca" name="Default Changelist" comment="" />
+      <created>1591968406638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591968406638</updated>
+      <workItem from="1591968409118" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="60" key="FileChooserDialogImpl" timestamp="1615082693926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615082693926" />
+  </component>
+</project>
